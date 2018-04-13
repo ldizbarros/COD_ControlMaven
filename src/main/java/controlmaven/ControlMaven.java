@@ -13,7 +13,7 @@ public class ControlMaven {
     /**
      * Clase principal de la aplicacion.
      * En esta clase se llama a la clase metodos donde esta el codigo principal del programa.
-     * @param args 
+     * @param args parametro arg
      */
     public static void main(String[] args) {
         try {
